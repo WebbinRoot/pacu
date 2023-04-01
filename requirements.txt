@@ -38,14 +38,15 @@ docutils==0.15.2 ; python_version >= "3.6" and python_version < "4.0" \
 dsnap==1.0.0 ; python_version >= "3.6" and python_version < "4.0" \
     --hash=sha256:9009a98a70770259d18cae88d806a5baf7cd80ecf2ee148888831f0ba28b8f24 \
     --hash=sha256:fc11265438fb5a0af79f02f276468e75b0b36f49d545c85454831c2e5698e035
-graphviz==0.20.1; python_version >= "3.6" and python_version < "4.0" \
-    --hash=sha256:587c58a223b51611c0cf461132da386edd896a029524ca61a1462b880bf97977
 idna==3.2 ; python_version >= "3.6" and python_version < "4.0" \
     --hash=sha256:14475042e284991034cb48e06f6851428fb14c4dc953acd9be9a5e95c7b6dd7a \
     --hash=sha256:467fbad99067910785144ce333826c71fb0e63a425657295239737f7ecd125f3
 inquirer==2.7.0 ; python_version >= "3.6" and python_version < "4.0" \
     --hash=sha256:d15e15de1ad5696f1967e7a23d8e2fce69d2e41a70b008948d676881ed94c3a5 \
     --hash=sha256:e819188de0ca7985a99c282176c6f50fb08b0d33867fd1965d3f3e97d6c8f83f
+graphviz==0.20.1; python_version >= "3.7" and python_version < "4.0" \
+    --hash=sha256:8c58f14adaa3b947daf26c19bc1e98c4e0702cdc31cf99153e6f06904d492bf8 \
+    --hash=sha256:587c58a223b51611c0cf461132da386edd896a029524ca61a1462b880bf97977
 jinxed==1.1.0 ; python_version >= "3.6" and python_version < "4.0" and platform_system == "Windows" \
     --hash=sha256:6a61ccf963c16aa885304f27e6e5693783676897cea0c7f223270c8b8e78baf8 \
     --hash=sha256:d8f1731f134e9e6b04d95095845ae6c10eb15cb223a5f0cabdea87d4a279c305
